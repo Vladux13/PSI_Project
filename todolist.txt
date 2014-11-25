@@ -29,16 +29,15 @@ objektuose galima pateikti bendrus atributus ir metodus.
 ---------------------------------------------------------------------
 Current jobs list:
 
-Papilditi class diagrama svarbiausiomis klasemis.
-Dar karta isiskaityti Current 'to do'.
-Visus siulymus rasyti ties suggestions apacioje arba i fb chata.
+Class diagramos perziura ir uzbaigimas.
 
-Ilja - pagooglink arba jei ir taip supranti pabraizyk kaip nuo objektu ir aktoriu pereiti prie class diagramos ir pabandyk savais zodziais paaiskinti ir kitiems. 
-Ieva ir Vladikai - jus pasiziurekit kaip class diagramose galima butu ivygdyti asociacijas ir kiek ir kokius atributus priskirstynet klasem. 
-Trecia - Jonuk uzmesk aki kaip detaliai reiktu pacia diagrama padaryti, tai yra pasiziurek kaip turi vykti funkcionalumas, kokios subclasses turi buti ir pan.
+Ilja - Object diagrama.
+Jonas - Case diagrama.
+Ieva - Package diagrama.
+
 ---------------------------------------------------------------------
 *********************************************************************
 ---------------------------------------------------------------------
 Suggestions:
-lol
+
 ---------------------------------------------------------------------
